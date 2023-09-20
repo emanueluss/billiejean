@@ -1,0 +1,26 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.div {
+    display: flex;
+    justify-content: center;
+}
+
+.button {
+    text-decoration: none;
+    color: black;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 50px;
+    background-color: rgba(0, 245, 245, 0.993);
+    border-radius: 10px;
+}
+
+.img {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 3px solid rgba(0, 245, 245, 0.993);
+  border-radius: 10px;
+}
